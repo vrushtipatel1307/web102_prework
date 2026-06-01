@@ -24,7 +24,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img href='https://drive.google.com/file/d/1PQ6kP2vkPDoqVu4K9GlpIFnku8xvXgA2/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-This is the Google Drive link to the video walkthrough: https://drive.google.com/file/d/1PQ6kP2vkPDoqVu4K9GlpIFnku8xvXgA2/view?usp=sharing
+This is the Google Drive link to the video walkthrough:
+https://drive.google.com/file/d/1PQ6kP2vkPDoqVu4K9GlpIFnku8xvXgA2/view?usp=sharing
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
